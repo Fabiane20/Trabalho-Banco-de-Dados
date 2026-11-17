@@ -1,6 +1,6 @@
 # 🌿 Floricultura Divina Planta — Banco de Dados Relacional (Oracle SQL)
 
-Projeto acadêmico desenvolvido para a disciplina de **Organização de Banco de Dados**. O sistema consiste na modelagem e implementação de um banco de dados relacional para substituir registros manuais em papel e gerenciar o estoque, vendas, fornecedores e compras de uma floricultura de pequeno porte.
+Projeto acadêmico desenvolvido para a disciplina de **Banco de Dados**. O sistema consiste na modelagem e implementação de um banco de dados relacional para substituir registros manuais em papel e gerenciar o estoque, vendas, fornecedores e compras de uma floricultura de pequeno porte.
 
 ---
 
